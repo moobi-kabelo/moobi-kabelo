@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">Hi 👋, I'm Moobi Kabelo</h1>
-    <p>A passionate Software Engineer, Cyber Security enthusiast, and Project Manager from South Africa 🇿🇦 
+    <p>A self-taught Software Engineer, Cyber Security enthusiast, and Project Manager from South Africa 🇿🇦 
 </p>
 </div>
 
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook Icon">
 </a>
 <!-- Instagram -->
-<a href="https://www.instagram.com/your-profile-url">
+<a href="https://www.instagram.com/moobi">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram Icon">
 </a>
 <!-- HackerRank -->
@@ -54,11 +54,11 @@
 
 ### Back-end Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/moobi-kabelo/v2)
+[JobQuest](https://github.com/moobi-kabelo/job-quest)
 
 ### Front-end Projects
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/moobi-kabelo/Heartbleed)
+[Wotchy](https://github.com/moobi-kabelo/wotchy)
 
 ### My GitHub Stats
 
